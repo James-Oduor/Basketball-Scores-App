@@ -26,4 +26,4 @@ You need a web browser (e.g., Chrome, Firefox, Edge) to run this app.
 
 1. Clone this repository or download the ZIP file.
    ```bash
-   git clone https://github.com/your-username/basketball-scores-app.git
+   git clone https://github.com/James-Oduor/basketball-scores-app.git
