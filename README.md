@@ -24,6 +24,4 @@ You need a web browser (e.g., Chrome, Firefox, Edge) to run this app.
 
 ### Installation
 
-1. Clone this repository or download the ZIP file.
-   ```bash
-   git clone https://github.com/James-Oduor/basketball-scores-app.git
+https://role-playing-game-app-project.netlify.app/
