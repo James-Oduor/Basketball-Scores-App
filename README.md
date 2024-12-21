@@ -1,7 +1,7 @@
 🏀 Basketball Scores App
 A sleek and lightweight web application to manage and display basketball game scores effortlessly! Whether you're tracking scores for friendly matches or league games, the Basketball Scores App makes it simple to view, update, and manage game details in real time.
-
-👉 Live Demo: Basketball Scores App
+---
+👉 Live Demo:https://basketball-scores-app.netlify.app/
 
 ![image](https://github.com/user-attachments/assets/0ad2bf5d-34f9-4b88-b2fc-8e171ca38c34)
 
@@ -27,7 +27,7 @@ All you need is a modern web browser like Chrome, Firefox, or Edge to run this a
 
 🌟 Try it Out
 No installation required! Open the app directly in your browser:
-👉 Basketball Scores App
+👉 https://basketball-scores-app.netlify.app/
 
 
 
